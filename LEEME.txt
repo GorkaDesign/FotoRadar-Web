@@ -1,0 +1,9 @@
+FOTO RADAR — WEB PÚBLICA (primera publicación)
+
+1) Sube el CONTENIDO de esta carpeta (index.html, data/concursos.json y LEEME.txt) al repositorio público FotoRadar-Web.
+2) En Settings > Pages selecciona Deploy from a branch, rama main, carpeta /(root), y guarda.
+3) La URL será https://gorkadesign.github.io/FotoRadar-Web/ (cuando GitHub Pages confirme la publicación).
+4) Este paquete es un catálogo público sin datos personales. COMIENZA VACÍO A PROPÓSITO. NO incluye concursos ficticios.
+5) TODAVÍA NO hay conexión automática con el repositorio privado: no copies su base de datos sin comprobar antes qué información puede publicarse.
+6) El futuro sincronizador solo publicará campos de concursos revisados para difusión. Nunca se deben publicar notas personales ni claves de acceso.
+7) Los datos de posibles concursos no verificados aparecerán como 'Pendiente de verificar'.
