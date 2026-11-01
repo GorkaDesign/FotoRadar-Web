@@ -1,0 +1,15 @@
+FOTO RADAR — ACTUALIZACIÓN DEL LOGOTIPO
+
+Repositorio: GorkaDesign/FotoRadar-Web (PÚBLICO)
+
+Subir el contenido de esta carpeta a la RAÍZ del repositorio, manteniendo la carpeta assets y sustituyendo index.html.
+
+IMPORTANTE: NO BORRAR, CAMBIAR NI VOLVER A SUBIR data/concursos.json. Ese archivo ya se actualiza automáticamente y este paquete no lo incluye deliberadamente.
+
+Archivos: index.html, favicon.ico, manifest.webmanifest, assets/ (4 versiones originales de logo y 2 iconos).
+
+El diseño actual oscuro usa assets/FONDOS OSCUROS HORIZONTAL.png; las otras 3 variantes se incluyen para futuros usos.
+
+Si GitHub no permite reemplazar index.html mediante Upload files, abrir index.html, editar (lápiz), copiar el contenido del nuevo index.html y hacer Commit changes.
+
+Tras guardar, GitHub Pages publicará los cambios. Actualizar con Ctrl+F5 para verlos.
