@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:41:53.595714+00:00",
+  "updated": "2026-11-01T21:45:09.972196+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
     {
@@ -71,6 +71,25 @@
       "score": null,
       "status": "nuevo",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzBzUlFVZEJBV1VNb0hpV3g5MjNSR0J2Q1hBVmtfZGplUXkwRC1RSGUwQnlRNWlFcXJoV0JaWVllNTFSQTFtZV80cnJNZ1dUQTJ6dlk5VzJQQWpqTmFuUFlaYkxHdmJRdktjQnVXODR0YXY2a0kxc0YyVm8xa0VtdVJsbFE2OHRWdFJRcFNxWmt4SEZYQm8wRHhUQ1NqUTBlUFVzcXdHY2FhZXNmb1NFbE0yUW5Ick1ySG5USnJMQWdKNHhWeTczMUVEOUt4dWpYdUZaZHBqWEZEcmtqQ0ZEUWVfaFg0eXc5VDNyc1hnX0w4N1hvMEZObS15VXjSAYICQVVfeXFMTmtaRTBjX1JLZTB3TzRibXJkRko1VUNlZzJZR1VTWE9CdV9rOVVQWmdsMEpOZFh2M3g1NUtFLVBsWGxhVGNDX0h3TGVwV1JBb0NCWXl3azZfd2hISUEzY3ZsVUtUdU1TZm01bUxoRkt6d3RJeUdkOGo4cUh0UXJDMHdaZmNZdnpLVmt5dkpGOHZNYXhrR2ZZX0d1bVRYZXFhbzIzRUlycTNBT3NUcUVUTlV2Yi1fTW9KSXcxM05SVlFVS0hqdjFBVzljYnJDb3VFaHRxX1l6Y2I2WFdCM1Y5ZjRSeC1RXzZVRU1BM21yMXlXU1hTdmRQbkwzV1JRY2MtcW5n?oc=5",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-01"
+    },
+    {
+      "id": "web-3f2181515a5ebe86",
+      "name": "Últimos días para inscribirse en el Primer Premio de Fotografía Fundación Juan Lozano: se repartirán 8.500 €",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b2e3ab0f4482a299677496c813d7&url=https%3a%2f%2fwww.elespanol.com%2fsevilla%2fvivir%2f20261015%2fultimos-dias-inscribirse-primer-premio-fotografia-fundacion-juan-lozano-dotado-eur%2f1003744421416_0.html&c=5596768143020113832&mkt=en-us",
       "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
       "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
       "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
