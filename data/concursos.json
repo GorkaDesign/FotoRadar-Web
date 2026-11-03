@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-02T17:44:08.947812+00:00",
+  "updated": "2026-11-03T15:46:22.544601+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-0f2b81818399c331",
+      "name": "Mollet abre la convocatoria del Premio de Fotografía Sant Vicenç, con 300 euros para el ganador - La Ciutat",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2JtUGpRUHhvQy10Uno3UmUzVk9DZ0hYb0tFS3dKYjhuQlNtcm82dUlvLU1za1BaUVBTU1NRZl8xTElrRHhFWkNfSkw2VDg3aFJ6ZTNoaTNRYUQ4NFdPQkFOa3VXZEc3RXk2cmprTGZTV3VoQ29US3BvVDNnZ0FOSzYzMlFKenF0dC1DOFlmdFEteG45RHhFLXFlT1hmUVlHcFk5TXNTTTZoV3Z5a25Ybmx5S05KRS1xb0VVT2FVSWY1SklEdEpfQTkzZ0EzSlNicnfSAdcBQVVfeXFMT3FZZERsdWJfLWlTNmFwRmtDeEtDQ2ZaVHY0NWNjWTV2N2xnTjdza01KQ3hOa3h2clR1N29zSXBaaEs1UlpqRU0wUUtvOWlpbnhkWm93dS1td3NJbG9IcEJCRkxtcFlGVmZwS0FjWmU0OVdDajVKS2RnZ25jaS1PN0FtZTVhMFNFc0EyQmJPaXR4Y0phYzlucFdRX2VPdEdQR2EtN01rZ2hrM1RrZm5vdkxDY2ZEVGhHUXc3QjFJYmRIN3RjZVlkczdzemlRdl9XYkF2aDl2RGc?oc=5",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-03"
+    },
     {
       "id": "web-7766ee3104b6cfdd",
       "name": "Mallorca desde otra mirada: un concurso fotográfico premia las imágenes más originales con hasta 200 euros - Diario de Mallorca",
