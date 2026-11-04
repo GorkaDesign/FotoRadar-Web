@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-03T15:46:22.544601+00:00",
+  "updated": "2026-11-04T15:55:43.502564+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-34dd2130a26aca23",
+      "name": "Alicante abre un concurso de fotografía con tres premios de 300 euros: requisitos y plazo para participar - DSAlicante.com",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjhnRkZFZWhqYlNpUTRSU3pXdEp3ejAtN2ZvNWsza0c2LTYwQzBiMkdkTWxDdXp5VndhMGxOa3hQVEVmTUFBaHFMNFdCeGZtWnAwX2NrbW1wbnVtRWJmWndXS204Y2E1TFl6YktLNVVtUEwwY0FqdjN5ODhZWlBEWnRBTmxId01VZk5v?oc=5",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-04"
+    },
     {
       "id": "web-0f2b81818399c331",
       "name": "Mollet abre la convocatoria del Premio de Fotografía Sant Vicenç, con 300 euros para el ganador - La Ciutat",
