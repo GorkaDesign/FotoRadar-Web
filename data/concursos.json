@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-04T15:55:43.502564+00:00",
+  "updated": "2026-11-06T15:37:54.612269+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-ceeed1bdc2669bb9",
+      "name": "La Diputación de Segovia convoca el XI Concurso de Fotografía Turística con 1.000 euros en premios",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aedf44e50d143b5908925ea1d497923&url=https%3a%2f%2fwww.europapress.es%2fcastilla-y-leon%2fnoticia-diputacion-segovia-convoca-xi-concurso-fotografia-turistica-1000-euros-premios-20261021142332.html&c=5500059420063992703&mkt=en-us",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-06"
+    },
     {
       "id": "web-34dd2130a26aca23",
       "name": "Alicante abre un concurso de fotografía con tres premios de 300 euros: requisitos y plazo para participar - DSAlicante.com",
