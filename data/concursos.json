@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-08T14:43:16.488923+00:00",
+  "updated": "2026-11-10T16:02:20.885730+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-695404ad4a84e656",
+      "name": "El Cabildo de Tenerife reparte 7.500 euros en premios para el Concurso Nacional de Fotografía Tenerife Moda 2027",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af34009b2084e1ab776a4cd603d1ceb&url=https%3a%2f%2fwww.eldia.es%2ftenerife%2f2026%2f10%2f26%2fcabildo-tenerife-reparte-7-500-euros-135771183.html&c=41449442414627712&mkt=en-us",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-10"
+    },
     {
       "id": "web-ceeed1bdc2669bb9",
       "name": "La Diputación de Segovia convoca el XI Concurso de Fotografía Turística con 1.000 euros en premios",
