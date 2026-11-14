@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-13T15:52:50.121447+00:00",
+  "updated": "2026-11-14T14:43:25.690076+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-d6e6fa81c2ece975",
+      "name": "Send holiday photos for the chance to win big",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8738c9fc8410ea164273439bf8aeb&url=https%3a%2f%2fwww.myleaderpaper.com%2fnews%2freaders-send-in-holiday-pictures-for-2026-photo-contest%2farticle_0afcd6d8-c076-4866-8ede-67f83f6807e7.html&c=2766836459047157162&mkt=en-us",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-14"
+    },
     {
       "id": "web-695404ad4a84e656",
       "name": "El Cabildo de Tenerife reparte 7.500 euros en premios para el Concurso Nacional de Fotografía Tenerife Moda 2027",
