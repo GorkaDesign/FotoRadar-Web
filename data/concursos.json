@@ -1,7 +1,26 @@
 {
-  "updated": "2026-11-16T17:50:58.013498+00:00",
+  "updated": "2026-11-17T17:19:42.387324+00:00",
   "note": "Candidatos RSS no verificados salvo indicacion expresa.",
   "contests": [
+    {
+      "id": "web-55a779befe210079",
+      "name": "Montilla convoca el XXV Concurso de Fotografía Turística «Premio Unicornio» con 2.000 euros en premios - Montilla Digital",
+      "organizer": "Pendiente de confirmar",
+      "category": "Fotografía · Pendiente de verificar",
+      "prize": null,
+      "currency": "EUR",
+      "fee": null,
+      "deadline": "",
+      "score": null,
+      "status": "nuevo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzBHbEtSWHJJcnB3YVdSSzM2YmVOMUFTOGJzR0ZRQmhKTFNUTlRrcUVxZk5TVzlQeVkxbmgxcE1lX1hkVGdralZ4UWlIWmxxcWQ3QVk0ZTBuSDAzQkxWN0RNc3RkZ2xNT1F4MFc5M3hrN3FOYUVFdjhmSjJwR2ZqVlJ0emdnNnE2?oc=5",
+      "rules": "Noticia detectada por RSS. Verifica la convocatoria y las bases oficiales antes de inscribirte.",
+      "restrictions": "Sin verificar: edición, IA, autoría y derechos de imagen.",
+      "calendar": "Sin verificar: fecha de cierre, fallo y entrega de premios.",
+      "opinion": "Pendiente de verificar en las bases oficiales.",
+      "review": "pendiente",
+      "discovered": "2026-11-17"
+    },
     {
       "id": "web-d6e6fa81c2ece975",
       "name": "Send holiday photos for the chance to win big",
